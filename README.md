@@ -11,8 +11,19 @@ This collection is sent back to the browser as a JSON object.
 
 The collection is then used for animation. All vertices are colored according to the comnponent they belong to.
 
-When deployed on Tomcat the root context is:
+# Launching the demo
+To launch the demo run the command `mvn spring-boot:run` in project directory. When the application has started open a browser and hit URL `localhost:8080/undirected-components`.
 
-undirected-components
+Here are some screen shots that can be seen during the demo:
 
-Dominique Ubersfeld, Cachan, France  
+Initial graph:
+![alt text](images/initGraph.png "Initial graph")
+
+Animation step:
+![alt text](images/searchStep.png "Search step")
+
+Search completed showing all components:
+![alt text](images/searchCompleted.png "Search completed")
+
+
+Dominique Ubersfeld, Cachan, France
