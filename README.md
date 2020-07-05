@@ -25,5 +25,8 @@ Animation step:
 Search completed showing all components:
 ![alt text](images/searchCompleted.png "Search completed")
 
+For a video demo follow this link:
+
+https://youtu.be/UfSjthuc_6c
 
 Dominique Ubersfeld, Cachan, France
